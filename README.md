@@ -15,6 +15,9 @@ With a proven track record in Cloud Proxy and a commitment to innovation, I cont
 </a>
 
 ---
+![Alt text of the image](https://pbs.twimg.com/profile_images/963836823800705024/U2A-sG0m_400x400.jpg)
+<img src="https://pbs.twimg.com/profile_images/963836823800705024/U2A-sG0m_400x400.jpg" data-canonical-src="https://wago.io/p/Cludes" width="100" height="100" />
+---
 <!--
 **Cludes/Cludes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
