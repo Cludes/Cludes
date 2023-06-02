@@ -1,3 +1,7 @@
+<a href="https://github-readme-stats.vercel.app/api?username=cludes&show_icons=true&theme=dark&count_private=true&hide=stars">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cludes&show_icons=true&theme=dark&count_private=true&hide=stars" />
+</a>
+
 ---
 
 Result-oriented Security Engineer with deep expertise in Secure Internet Services and a specialization in Cloud Proxy solutions. As a subject-matter expert in Cloud Proxy, I bring a wealth of knowledge to effectively manage and support Squid proxy solutions, ensuring robust security on AWS/GCP proxies.
@@ -7,12 +11,6 @@ I have successfully built, configured, and deployed Squid Proxy solutions in div
 Committed to automation and efficiency, I have developed cutting-edge solutions for SWG using Terraform and Codefresh, streamlining workflows and eliminating manual processes.
 
 With a proven track record in Cloud Proxy and a commitment to innovation, I continually enhance security measures and contribute to the advancement of cybersecurity practices.
-
----
-
-<a href="https://github-readme-stats.vercel.app/api?username=cludes&show_icons=true&theme=dark&count_private=true&hide=stars">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cludes&show_icons=true&theme=dark&count_private=true&hide=stars" />
-</a>
 
 ---
 <a href="https://wago.io/p/Cludes" onclick="window.open(this.href, '_blank'); return false;">
