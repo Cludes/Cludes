@@ -15,6 +15,8 @@ With a proven track record in Cloud Proxy and a commitment to innovation, I cont
 </a>
 
 ---
+During my free time, I enjoy both gaming and creating custom [WeakAuras](https://wago.io/p/Cludes). My WeakAuras have attracted significant attention, with a total of 386,000 views, 571 stars, and 15,520 installs across multiple profiles.
+
 <a href="https://wago.io/p/Cludes" onclick="window.open(this.href, '_blank'); return false;">
   <img src="https://pbs.twimg.com/profile_images/963836823800705024/U2A-sG0m_400x400.jpg" width="100" height="100" />
 </a>
