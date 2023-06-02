@@ -15,9 +15,10 @@ With a proven track record in Cloud Proxy and a commitment to innovation, I cont
 </a>
 
 ---
-<a href="https://wago.io/p/Cludes" target="_blank" rel="noopener">
+<a href="https://wago.io/p/Cludes" onclick="window.open(this.href, '_blank'); return false;">
   <img src="https://pbs.twimg.com/profile_images/963836823800705024/U2A-sG0m_400x400.jpg" width="100" height="100" />
 </a>
+
 
 
 
